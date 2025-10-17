@@ -10,3 +10,5 @@ ldf,sqfs fgs gfd
 # Conclusion
 fcsdfzesq f
 sdfsdf vsf
+
+# Copyright
